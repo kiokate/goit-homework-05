@@ -795,6 +795,11 @@ input {
   background-color: #404BBF;
   border-color: #404BBF;
 }
+.link-policy {
+  color: #4d5ae5;
+  margin-left: 4px;
+}
+
 
 .modal-check-button {
   margin: auto;
